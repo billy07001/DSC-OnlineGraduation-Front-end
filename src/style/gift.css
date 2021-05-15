@@ -1,0 +1,12 @@
+.selectgift{
+    text-align: center;
+    margin-top: 100px;
+    padding: 5px;
+    background-color: white;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+.giftitem{
+    margin: 10px;
+}
