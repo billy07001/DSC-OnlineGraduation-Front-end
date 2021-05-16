@@ -24,10 +24,7 @@ function signing() {
     let hue;
     let lastX = 0;
     let lastY = 0;
-    function move() {
-        hue = document.getElementById("slider").value;
-        document.getElementById("color").innerHTML = `${hue}`
-    }
+
     let direction = true;
     function draw(e) {
         if (!isDrawing) return;

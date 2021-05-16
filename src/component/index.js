@@ -1,9 +1,12 @@
 import '../style/App.css';
+import '../style/index.css';
+
+import gra from '../view/graduation.jpg';
 
 function Index() {
     return (
         <div className="App-header">
-            <p>This is Index</p>
+            <img className="gra" src={gra} alt="Graduate" />
         </div>
     );
 }
