@@ -5,6 +5,8 @@
 .messageform{
     width: 800px;
     margin-top: 70px;
+    background-color: white;
+    border: solid 5px;
 }
 
 .signboard{
