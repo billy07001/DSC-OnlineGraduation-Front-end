@@ -4,5 +4,13 @@
 
 .messageform{
     width: 800px;
+    margin-top: 70px;
+}
+
+.signboard{
+    background-color: blanchedalmond;
+    border: solid 5px;
     margin: 10px;
+    width: 800px;
+    height:400px;
 }
